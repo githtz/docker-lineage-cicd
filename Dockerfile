@@ -180,7 +180,7 @@ RUN apt-get install -y bc bison bsdmainutils build-essential ccache cgpt cron \
       curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick kmod \
       lib32ncurses5-dev lib32readline-dev lib32z1-dev libesd0-dev liblz4-tool \
       libncurses5-dev libsdl1.2-dev libssl-dev libwxgtk3.0-dev libxml2 \
-      libxml2-utils lsof lzop maven openjdk-8-jdk pngcrush procps python rsync \
+      libxml2-utils lsof lzop maven openjdk-8-jdk pngcrush procps python3 rsync \
       schedtool squashfs-tools wget xdelta3 xsltproc yasm zip zlib1g-dev
 
 RUN curl https://storage.googleapis.com/git-repo-downloads/repo > /usr/local/bin/repo
