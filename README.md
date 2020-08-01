@@ -80,7 +80,7 @@ FAKE_SIGNATURE permission must be embedded in the build by adding them in
 
 If you enable signature spoofing and want to use unifiednlp from microg, the patche
 to support is can be enabled using:
- * `UNIFIEDNLP_SUPPORT` (false): `true` to patch in unifiednlp support
+ * `SUPPORT_UNIFIEDNLP` (false): `true` to patch in unifiednlp support
 
 ### Custom Packages
 
