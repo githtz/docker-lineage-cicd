@@ -54,7 +54,7 @@ ENV CCACHE_SIZE 50G
 
 # Environment for the LineageOS branches name
 # See https://github.com/LineageOS/android_vendor_cm/branches for possible options
-ENV BRANCH_NAME 'lineage-16.0'
+ENV BRANCH_NAME 'lineage-17.1'
 
 # Environment for the device list (separate by comma if more than one)
 # eg. DEVICE_LIST=hammerhead,bullhead,angler
